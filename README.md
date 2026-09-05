@@ -184,38 +184,16 @@ A web application focused on helping users prepare for technical interviews.
 
 ---
 
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Puravxgrover&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="Purav's GitHub Stats"
-  />
 
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Puravxgrover&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="Purav's GitHub Streak"
-  />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Puravxgrover&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
+
 </p>
 
----
-
-
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Puravxgrover&theme=tokyo-night&hide_border=true"
-    alt="Purav's GitHub Activity Graph"
-  />
-</p>
-
----
+--- 
 
 ## 🐍 Contribution Snake
 
