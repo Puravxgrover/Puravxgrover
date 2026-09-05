@@ -165,22 +165,22 @@ tools:
 ### 🩺 Medico App
 A full-stack healthcare application designed to provide a smooth and user-friendly experience.
 
-**Tech:** React • Node.js • Express.js • MongoDB
+**Tech Stack :** React • Node.js • Express.js • MongoDB
 
 ### 🔗 URL Shortener
 A web application for creating short and shareable URLs.
 
-**Tech:** React • Node.js • Express.js • MongoDB
+**Tech Stack :** React • Node.js • Express.js • MongoDB
 
 ### 💼 Purav Portfolio
 My personal developer portfolio showcasing my skills, projects and experience.
 
-**Tech:** React • JavaScript • HTML • CSS
+**Tech Stack :** React • JavaScript • HTML • CSS
 
 ### 🎯 Interview App
 A web application focused on helping users prepare for technical interviews.
 
-**Tech:** React • Node.js • Express.js • MongoDB
+**Tech Stack :** React • Node.js • Express.js • MongoDB
 
 ---
 
