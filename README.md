@@ -10,8 +10,6 @@ B.Tech Computer Science Engineering Student 🇮🇳
 Passionate for Full Stack Web Development [MERN Stack]
 </p>
 
-<br/>
-
 <div align="center">
 
 💻 Building **scalable, responsive & user-friendly web applications** using modern technologies
@@ -30,6 +28,7 @@ Passionate for Full Stack Web Development [MERN Stack]
 
 ---
 
+
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -40,7 +39,10 @@ Passionate for Full Stack Web Development [MERN Stack]
 
 [![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Puravgrover13)
 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Puravgrover13)
+
 </div>
+
 
 ---
 
